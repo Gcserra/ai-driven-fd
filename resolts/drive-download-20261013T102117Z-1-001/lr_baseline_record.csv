@@ -1,0 +1,2 @@
+tarih,model,yontem,nan_stratejisi,olcekleme,C,solver,class_weight,val_auc_pr,test_auc_pr,test_auc_roc,val_test_gap,prec_at_recall85,recall_at_recall85,thr_at_recall85,max_recall,prec_at_max_recall,f2_optimal_threshold,f2_optimal_f2,f2_optimal_recall,f2_optimal_precision,n_iter,sure_dk
+2026-05-20 21:11,Logistic Regression,"Baseline (L2, C=0.1)",Median Imputation,StandardScaler,0.1,saga,balanced,0.6963,0.2607,0.8637,0.4356,0.0787,0.8728,0.15,0.9966,0.0348,0.85,0.434,0.4983,0.2863,1000,28.2
